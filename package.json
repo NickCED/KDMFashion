@@ -1,0 +1,31 @@
+{
+  "name": "baseelectronapp",
+  "version": "1.0.0",
+  "description": "CED internal base Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "concurrently \"npm run build-frontend\" \"npm run start-main-dev\"",
+    "start-frontend-dev": "webpack serve --config ./webpack.config.js --mode development",
+    "start-main-dev": "electron .",
+    "build-frontend": "webpack --config ./webpack.config.js --mode production",
+    "build-app": "npm run build-frontend && electron-builder"
+  },
+  "author": "Nicholas J. Smith",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "css-loader": "^6.10.0",
+    "electron": "^29.1.0",
+    "electron-builder": "^24.13.3",
+    "html-webpack-plugin": "^5.6.0",
+    "sass": "^1.71.1",
+    "sass-loader": "^14.1.1",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.2"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5"
+  }
+}
