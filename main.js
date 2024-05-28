@@ -4,8 +4,20 @@ const { app, BrowserWindow, ipcMain } = require('electron');
 let mainWindow;
 function createWindow() {
   mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    width: 1920,
+    height: 1080,
+    resizable: false,
+    movable: false,
+    x: 0,
+    y: 0,
+    useContentSize: true,
+    alwaysOnTop: true,
+    fullscreen: true,
+    skipTaskbar: true,
+    kiosk: true,
+    frame: false,
+    show: true,
+
     webPreferences: {
       nodeIntegration: true,
     },
