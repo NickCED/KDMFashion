@@ -42,7 +42,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: './EditFrontEnd/index.html',
-      filename: 'app.html',
+      filename: 'index.html',
     }),
   ],
 };

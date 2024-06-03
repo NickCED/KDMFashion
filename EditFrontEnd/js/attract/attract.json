@@ -1,0 +1,10 @@
+{
+    "animDuration": 500,
+    "items": {
+        "Logo" : {
+            "type": "image",
+            "src": "images/logo.png"
+            
+        }
+    }
+}

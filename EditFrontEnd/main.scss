@@ -13,4 +13,21 @@ $c-800: #212121;
 // $c-300 with $c-700 or $c-800
 // $c-400 with $c-800
 
-@import 'Attract';
+@import './scss/Attract';
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Archivo', sans-serif;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+}
+app {
+width: inherit;
+height: inherit;
+}
+.a-item {
+    position: absolute;
+}

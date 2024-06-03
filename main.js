@@ -26,7 +26,7 @@ function createWindow() {
   // Determine whether the app is in development or production and set the start URL accordingly
 
   const startURL =
-    process.env.Node_ENV === 'development'
+    process.env.NODE_ENV === 'development'
       ? 'http://localhost:9000'
       : `${path.join(__dirname, 'dist', 'app.html')}`;
 
