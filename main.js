@@ -16,7 +16,6 @@ function createWindow() {
     skipTaskbar: true,
     kiosk: true,
     frame: false,
-   
 
     webPreferences: {
       nodeIntegration: true,
@@ -28,7 +27,6 @@ function createWindow() {
   const startURL =
     process.env.NODE_ENV === 'development'
       ? 'http://localhost:9000'
-      : `${path.join(__dirname, 'dist', 'index.html')}`;
       : `${path.join(__dirname, 'dist', 'index.html')}`;
 
   mainWindow.loadFile(startURL);
