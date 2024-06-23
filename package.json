@@ -27,6 +27,7 @@
     "webpack-dev-server": "^5.0.4"
   },
   "dependencies": {
-    "gsap": "npm:@gsap/shockingly@^3.12.5"
+    "gsap": "npm:@gsap/shockingly@^3.12.5",
+    "hammerjs": "^2.0.8"
   }
 }

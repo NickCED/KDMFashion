@@ -1,13 +1,36 @@
 #Attract {
-  background: #f4f2f2;
   width: 100%;
   height: 100%;
+  display: block;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+
+  * {
+    position: absolute;
+    left: 50%;
+    color: $c-600;
+  }
 
   #Logo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 1920px;
-    height: 1080px;
+    width: max-content;
+    height: max-content;
+
+    top: 50%;
+    transform-origin: center center;
+    transform: translate(-50%, -50%);
+  }
+
+  h2 {
+    font-size: 2rem;
+    bottom: 20rem;
+    transform: translate(-50%, -50%);
+    margin: 0;
+  }
+  p {
+    bottom: 4.5rem;
+    font-size: 24px;
+    transform: translate(-50%, -50%);
   }
 }

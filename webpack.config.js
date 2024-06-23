@@ -19,6 +19,8 @@ module.exports = {
     hot: true, // Enable webpack's Hot Module Replacement feature
     historyApiFallback: true, // fallback to index.html for Single Page Applications.
   },
+ 
+
   module: {
     rules: [
       {
