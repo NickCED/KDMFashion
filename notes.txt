@@ -1,5 +1,9 @@
 Notes 
 
-For color pickers add functionality on website to allow for KDM to select the color ranges for optional color changing
-add the ability for them to prearrange the clumps via figma
+No color Picker, no accessories swapping
+
+Addition of infinite scrolling type and pictures
+
+
+reduce stack to allow for single page entries of the clumps as opposed to the double nesting
 

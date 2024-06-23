@@ -15,19 +15,15 @@ $c-800: #212121;
 
 @import './scss/Attract';
 
-
 body {
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Archivo', sans-serif;
-    width: 1920px;
-    height: 1080px;
-    position: relative;
+  margin: 0;
+  padding: 0px;
+  font-family: 'Archivo', sans-serif;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
 }
-app {
-width: inherit;
-height: inherit;
-}
+
 .a-item {
-    position: absolute;
+  position: absolute;
 }

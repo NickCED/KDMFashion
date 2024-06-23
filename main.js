@@ -11,7 +11,7 @@ function createWindow() {
     x: 0,
     y: 0,
     useContentSize: true,
-    alwaysOnTop: true,
+    alwaysOnTop: false,
     fullscreen: true,
     skipTaskbar: true,
     kiosk: true,
@@ -28,7 +28,7 @@ function createWindow() {
   const startURL =
     process.env.NODE_ENV === 'development'
       ? 'http://localhost:9000'
-      : `${path.join(__dirname, 'dist', 'app.html')}`;
+      : `${path.join(__dirname, 'dist', 'index.html')}`;
 
   mainWindow.loadFile(startURL);
   console.log('startURL: ', startURL);
