@@ -1,0 +1,690 @@
+{
+    "clumps":{
+        "SocialSport": {
+            "title": "The Social Sport",
+            "ensembles": [
+                {
+                    "id": 1,
+                    "name": "Woman’s day ensemble",
+                    "description": "ca. 1850s-1860s",
+                    "image": "",
+                    "credit": "On loan from the Filson Historical Society",
+                    "text": "Upper class, white women at the racetrack were, in general, discouraged from participating in the more “unseemly” parts of racing culture: drinking and gambling, in particular. However, racetrack proprietors knew that the more ladies an event could attract to the clubhouse and grandstand, the more gentlemen would follow. They often created special sections of the public grandstands that were reserved for women, assigning a committee of men to attend to female spectators’ needs. These “ladies’ pavilions” were treated as an additional layer of ornamentation to the racetrack, decorative and divorced from the rest of the crowd. Despite Kentucky’s occasionally lawless and backward reputation among some Americans during the antebellum and Civil War eras, writers often held Kentucky’s women up as the national paragons of gentility, beauty, and fashion. In 1840, observing the races at Oakland Race Course in Louisville, the Turf Register’s editor, William T. Porter, wrote, “It was the ‘blaze of beauty’ that claimed the second place after the horses.” Porter goes on to describe the ensembles of the women in attendance, highlighting the impeccable style of each “belle.” This is a good example of the kind of ensemble worn to public afternoon outings, like the races, in the 1850s and 1860s. Note the ornate parasol, worn not only for beauty but also for function, shielding its carrier from the sun’s rays and shading her from the heat of the afternoon. Especially for middle and working class women without seats in the ladies’ pavilion or an invitation to the clubhouse, a parasol was an essential accessory for enjoying the day at the races.",
+                    "accessories": [
+                        {
+                            "id": 1,
+                            "name": "Taffeta bodice",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "description": "The use of tartan—or plaid prints inspired by Scottish heritage textiles—in women’s day dresses became popular worldwide after 1852 when Queen Victoria purchased Balmoral Castle in Aberdeenshire, Scotland as a part-time residence. Trendsetters in American fashion, especially, still followed the examples set in the European fashion capitals, and tartan-like textiles quickly became a favorite for well-dressed women all over the nation. In this plaid silk day dress, it is possible to observe the way that the silhouette of the 1850s and 1860s showed interesting textile printing to its best advantage. Designed with relatively little embellishment, except for some ruching above the elbow and fringe on the cuffs of the classic pagoda sleeves, this dress lets its pattern provide the visual interest. This gown is also interesting, however, in the way it foreshadows an essential change in the way womenswear would develop over the next half-century. Instead of the bodice and skirt being connected at the waist, you will notice that this is an early example of “separates,” allowing the wearer greater flexibility both in the physical act of dressing and moving, as well as expanding the future use of the individual pieces.",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 2,
+                            "name": "Taffeta skirt",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 3,
+                            "name": "Hat",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "description": "During this period, when skirts were full (some required more than ten yards of fabric to cover the hooped undergarments) and the sleeves of bodices wide and sweeping, the accessories were dainty. Head coverings of some sort were expected for women at social functions during the day, just as men, too, would rarely be seen without a hat. Bonnets were popular for women in the 1860s, but so were relatively flat, oblong hats like this, with decorative ribbons trailing down the back. This hat, made from white and green velvet with tonal feather and tulle accents, compliments the rest of the ensemble without overwhelming any one element.",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 4,
+                            "name": "Beaded bag",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 5,
+                            "name": "Silk parasol",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Horseman’s ensemble",
+                    "description": "ca. 1840-1860",
+                    "image": "",
+                    "credit": "On loan from the Filson Historical Society and the Kentucky Historical Society",
+                    "text": "One of the most influential Thoroughbred breeders and owners of nineteenth-century Kentucky was an immigrant from a wealthy Scottish family, Robert Aitcheson “R. A.” Alexander. His impressive stud farm, Woodburn, in Woodford County, Kentucky (near Midway), once stabled some of the best racehorses of his era, including Lexington and Asteroid. Although he was deeply involved in promoting racing and breeding in the Bluegrass region, Alexander had significant interests in promoting racing in Louisville as well. After the failure of Oakland Race Course, Alexander pulled together a new group of racing enthusiasts in the late-1850s to form the Woodlawn Racing Association. Worden P. Hahn established Greenland Race Course not long after. There, prominent Kentuckians—many of them dressed like this, in an ensemble suitable for watching their horses in the paddock and at the rail—gathered together to enjoy the races. George Armstrong Custer, whose personal interest in racing coincided with his professional responsibility of buying excellent war horses for the U. S. Cavalry (some, even, from Alexander), attended the races in Louisville in August 1872. He recorded some passing thoughts of the women he saw there for Turf, Field and Farm, saying of Louisville women, “I have written only of the Girl of the Period as she is to be seen in Louisville, with her bad grammar, cheap diamonds, and horribly flashy dresses; but do not understand me as representing that no other style is to be met within this beautiful city.” Custer was more forgiving—or completely oblivious to—the appearance of male spectators.",
+                    "accessories": [
+                        {
+                            "id": 1,
+                            "name": "Linen duster",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "Worn by R. A. Alexander. On loan from the Kentucky Historical Society",
+                            "description": "Owning race horses, and taking an active part in their careers, meant a lot of travel for horsemen and women. Much of that travel, before the turn of the twentieth century, took place on unpaved and dusty roads. Alexander would have worn this duster in order to protect his fine clothes from the kicked-up dust and dirt while transporting his horses to the racetracks around the state. The garment was common for other prominent horsemen to wear as well. Henry “Hal” Price McGrath, the owner of Aristides and the winner of the very first Kentucky Derby was known for his race-day ensemble. A reporter from the Lexington-Herald recalled, “[McGrath] usually appeared at the races in a linen suit and a slouch hat, the coat being the cut of an old linen duster.”",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 2,
+                            "name": "Wool waistcoat",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "Attributed to the Levy Brothers, Louisville, Kentucky. On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 3,
+                            "name": "Linen trousers",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 4,
+                            "name": "Collar and bowtie",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 5,
+                            "name": "Wool felt slouch hat",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "Made by Crutcher and Starks, Louisville, Kentucky. On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 6,
+                            "name": "Walking stick and hidden flask",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Men’s day ensemble",
+                    "description": "ca. 1870s-1900s",
+                    "image": "",
+                    "credit": "On loan from the Filson Historical Society",
+                    "text": "Fashion for men in the late-nineteenth century is somewhat less exciting, perhaps, than that of women. Because clothes were expected to reflect the characters of the men who wore them—and the preferred public character of a nineteenth century gentleman was characterized by adjectives like “austere,” “strong,” and “controlled”—men’s clothes tended to be just that: austere. There were outliers, of course, like Oscar Wilde in England and Berry Wall in America; but mostly, men dressed in minimally ornamented black and navy wool, sporting an occasional bright cravat or patterned waistcoat. Even so, Lewis Clark, the founder of the Louisville Jockey Club and the Kentucky Derby, was something of a trendsetter during his years as president and presiding judge. Within the narrow scope of his sex, Clark inspired local clothiers to name garments after him. One 1879 Courier-Journal advertisement reads, “Before and after the races go to the great Bankrupt Clothing House for bargains,” making note of certain house specialties like the “Clark Ulster,” and the “Jockey Club Ulster” (both kinds of tailored overcoat). These garments are an example of the early impact Louisville racing fashion had on the city’s larger economy.",
+                    "accessories": [
+                        {
+                            "id": 1,
+                            "name": "Double-breasted wool suit",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 2,
+                            "name": "Beaver fur felt top hat",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "Worn by Maurice Galvin, Board of Directors for Churchill Downs and the Kentucky Jockey Club. Gift of Roger Auge, Kentucky Derby Museum Permanent Collection",
+                            "description": "The glacial pace of change in men’s fashion between the late-nineteenth and early-twentieth centuries can be seen in the enduring popularity of men’s headwear styles. While women’s headwear seemed to change almost seasonally, the mainstays of men’s hat design reigned for nearly half-a-century. Top hats, made unsustainably from beaver fur felt for many years (later of silk), were very common in the crowds at the Kentucky Derby until the mid-1920s. Bowler hats, sometimes called a “Derby,” endured well into the 1930s. Straw boaters, Homburgs, and cabbie caps made regular appearances at the track, and, of course, gamblers and fedoras would come to dominate men’s headwear by the 1940s and 50s. As one publication mused in 1867, “Men’s fashions are, perhaps, not quite so conspicuous in their variations as are those of women; but the changes, like the gradual upheaval of certain portions of the earth’s surface, though slow, are sure.”",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 3,
+                            "name": "Miser’s purse",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "description": "One of the few places where men of this era could show a little glamour was his coin purse. Commonly called a “miser’s purse,” the tasseled and knitted sock, sinched in the center by metal rings to open and close a narrow slit for coinage to pass through, was carried by both men and women. These accessories were sometimes heavily embellished, often with different designs to help the wearer discern which end held the desired coin. Men like Lewis Clark and his fellow horsemen would certainly have carried coin purses such as this to the racetrack—to purchase and settle gambling debts and perhaps treat himself and his accompanying lady to a mint julep.",
+                            "image": "",
+                            "images": []
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Woman’s day ensemble",
+                    "description": "ca. 1880-1883",
+                    "image": "",
+                    "credit": "On loan from the Filson Historical Society",
+                    "text": "Mary Clark, wife of the Kentucky Derby’s founder, spent her honeymoon on a tour of England, France, and Italy in 1872-1873. While there, both she and her husband marveled at the elegance witnessed at tracks like Epsom Downs and Longchamp, which functioned as centers not only of sport but also of fashion. It was not unusual for European designers—like burgeoning couture clothiers like the House of Worth in Paris—to debut new collections at the races. Before the inaugural Kentucky Derby, Mary rode around Louisville in an open carriage, dressed in her finest clothes, inviting the city’s most fashionable residents to consider attending the races. She and Lewis hoped that, in the spirit of the tracks of Europe and of other American tracks like Saratoga in New York, the Louisville Jockey Club would play host to the railbird runway, too. Christine Johnson “Madame” Grunder, one of Louisville’s most celebrated dressmakers of the Gilded Age, recalled of the first week of racing at the Louisville Jockey Club in 1875, “The beautiful women were flattered and besieged to wear bright colors and enhance their loveliness in every way, that the effect might be both picturesque and dazzling. They were made to understand that they were an important part of the spectacle.”",
+                    "accessories": [
+                        {
+                            "id": 1,
+                            "name": "Silk and brocade bodice",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "description": "This beautiful royal blue silk and rose-patterned brocade day dress came from one of the many Louisville dressmakers of the period: Close & Wasson, which operated on Fourth Street from 1880-1883. Although this dress would have been worn later than the first Kentucky Derby, many of its design features are similar to what Mary Clark might have donned in 1875, including the growing trend of omitting a train on “sporting” or “promenade” gowns. Of course, not all women who attended the first Kentucky Derby could afford to have dressed like Mary Clark and her friends, even if they showed up to the races in the best their pocketbooks would allow. There were plenty of these women at the racetrack: elegant trendsetters from the Black community, working-class ladies in twice-repaired gowns and straw hats, and even women considered by society to be of questionable character. “If you go over on the grand stand you will see plenty of women, but not just the kind that are found at the clubhouse,” said the Courier-Journal in 1889. “Some are simply interested in the races; some are betting a little; but most conspicuous, because overdressed and inclined to being loud in their joy or their grief, are the women of that other world.”",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 2,
+                            "name": "Silk and brocade bustle skirt",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 3,
+                            "name": "Hat",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "description": "Keeping up with the constant shifts in women’s fashions—or, in some cases, merely purchasing more than one custom garment or hat every few years—was out of reach for most women who were not part of the white upper class. In 1892, a reporter for the Courier-Journal commented, “Women have a great many ways of ‘possing’ the impossible, but one of the things that is denied to most of them is to make a home-trimmed hat that will look like the work of a milliner.” Nevertheless, many fashion-and-budget-conscious women would purchase one or two sturdy hat bases—to be re-decorated each season with new, inexpensive trimmings—that might last them a decade or more. Whether or not the efforts fooled the judgmental eyes of Gilded Age society depended on the skill of the woman and the quality of materials she was able to afford. One writer joked, “She does not intend to make milliners rich by making herself poor.” Another, writing in the late-1890s, said sympathetically, “Yes, poor girls have to become resurrectionists, and devise all sorts of ways and means.”",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 4,
+                            "name": "Embroidered handbag",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "image": "",
+                            "images": []
+                        },
+                        {
+                            "id": 5,
+                            "name": "Tussie-mussie",
+                            "dot": {
+                                "x": 960,
+                                "y": 540
+                            },
+                            "credit": "On loan from the Filson Historical Society",
+                            "description": "The Victorian and Edwardian women attending the races practiced a custom, with ancient roots, of wearing fresh flowers as adornment in public. Besides the charming effect of the flowers’ beauty—or, in classic Victorian fashion, the hidden symbolism behind the flowers one picked, called the “language of flowers”—the accessibility of fresh flowers shielded women from offensive odors they might encounter in large crowds or near common smells like horse manure. Some even believed that carrying a bouquet of flowers could protect humans from disease—as suggested by the popular nursery rhyme line “pocket-full of posies,” from the Medieval era of the Black Plague. Occasionally, women would carry her bouquet of flowers in a small, handheld vase called a tussie-mussie. These were generally crafted from sterling silver and sometimes included a glass vial as a reservoir of water for the blooms. This example on display includes a few other features: a stick pin, to adapt the tussie-mussie as a corsage, and a chained finger ring, to allow the wearer to dangle the bouquet while dancing or, at the races, cheering on a favorite horse.",
+                            "image": "",
+                            "images": []
+                        }
+                    ]
+                }
+            ]
+        },
+        "NewWoman": {
+            "title" : "The New Woman",
+            
+             "ensembles": [
+                        {
+                            "id": 1,
+                            "name": "Woman’s walking suit ensemble",
+                            "description": "ca. 1890s",
+                            "image": "",
+                            "credit": "On loan from the Filson Historical Society",
+                            "text": "Louisville was a hub for dressmaking and millinery in the late-nineteenth century, propelled by the outstanding design and construction of women like Anna Casey (later known as Madame Glover), an Irish immigrant modiste who successfully styled herself into a local, but high-fashion, stylist for Louisville’s social elite. Glover is a remarkable example of feminine enterprise in the Gilded Age. For women who wished to enter the professional sphere, the garment trade was a safer and more certain gamble—although it was rarely as successful as Madame Glover’s business. Her success enabled her to travel to Europe regularly on buying trips, where she could source the fabrics and trimmings a la mode and soak up the aesthetic trends of the fashion capitols. But Glover was also well-versed in the particular needs and desires of American women back in Louisville, who were not only looking for style and elegance but also for function. The ability to move or walk—literally classified as “sports” for women at the time—meant a more practical ensemble like this walking suit. Glover and her fellow modistes were able to squeeze the last profits from the diminishing industry of custom dressmaking, which, within the space of two decades, had given way to the revolutionary rise of the ready-made garment.",
+                            "accessories": [
+                                {
+                                    "id": 1,
+                                    "name": "Embroidered suit jacket",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "On loan from the Filson Historical Society",
+                                    "description": "The comically named leg o’ mutton sleeve, which can be observed on this bodice, became very popular in this era, and illustrations of ensembles worn to the Louisville Jockey Club in the 1890s show the prevalence of the feature in race-day ensembles. Lydia Edwards writes, that, at a time when the dramatic, hourglass silhouette reigned in womenswear, “the overall effect of these large sleeves, coupled with flared A-line skirt, was that the waist appeared even smaller.” The aesthetic, popularized nationwide by the illustrator Charles Dana Gibson and his iconic “Gibson girls,” although still unnatural and restricting in many ways, did focus on the liberating idea of separates. Edwards continues, “Even for those who maintained more traditional gender distinctions, a far more varied wardrobe was at last possible, and the wearing of separate skirts and blouses became more common for nearly all women regardless of their educational or career ambitions.”",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Gored skirt",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "On loan from the Filson Historical Society",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Shirtwaist",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "On loan from the Filson Historical Society",
+                                    "description": "Perhaps the most significant innovation of the late-nineteenth and early-twentieth centuries is the development of the shirtwaist, or a woman’s blouse patterned after the popular style of men’s shirts. The shirtwaist was an essential catalyst—along with the growing availability of affordable sewing machines—for the global ready-to-wear revolution. The value of the American clothing industry grew exponentially between 1860 and 1900, and there was an incredible rise of department stores nationwide, as well as the founding of mail-order catalog companies like Sears, Roebuck and Co., founded in 1892. The simplicity of the shirtwaist design, and the general simplification of most women’s garments, also meant that more women could make their own garments at home. Ebenezer Butterick’s size-graded, tissue-paper garment patterns allowed women to construct beautiful ensembles with individuality and on a budget. Homemade garments and mail-order catalogs were essential to the democratization of fashion. Working-class and immigrant white women could afford to dress well, but so could Black women—who were barred from many department stores in the era of Jim Crow. Black women were able to mail-order or make ensembles that would otherwise have been difficult to access and wear because of racial prejudice.",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Hat",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "On loan from the Filson Historical Society",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Kisslock coinpurse",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "On loan from the Filson Historical Society",
+                                    "image": "",
+                                    "images": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Woman’s lawn ensemble",
+                            "description": "ca. 1900s-1910s",
+                            "image": "",
+                            "credit": "On loan from the Filson Historical Society; Kentucky Science Center Collection, Kentucky Derby Museum",
+                            "text": "The “Gibson girl” was alive and well at the Louisville racetrack. One commentator at the 1902 Kentucky Derby observed, “The shirtwaist girl was there, and a large part of the grandstand was occupied by young women dressed in spotless white waists after the popular Gibson style, with dressy walking hats and skirts.” With all the recent strides in womenswear, there was an attendant backlash to dress reform movements—and their inherent references to larger social reform—in the early 1900s. For every Gibson-girl-like image representing the greater mobility of women within society, there was another image of her that emphasized femininity and traditional female stereotypes. Ultra-feminine, lace and chiffon ensembles, like this example of a period “summer white,” appeared alongside the more practical suits in conservative counterbalance. For example, Laska Durnell became the first woman to win the Kentucky Derby as an owner in 1904, and several newspaper accounts describe her active role in conditioning her horse, Elwood, for the races. Nevertheless, the Courier-Journal, perhaps responding to the symbolism of Durnell’s fashionable ensemble (commissioned from Louisville’s Madame Glover while in town for the races), reported on her accomplishment like this on Derby Day: “Down in the landau [carriage] separated from the sweltering thousands in the stand and far away from the betting ring, the beautiful owner of the colt collapsed like a piece of colored bunting that had been left out overnight.” Instead of emphasizing her accomplishment as a horsewoman, the paper focused on her appearance, highlighting her emotionality and painting her with the prized “feminine virtues” of grace and elegance.",
+                            "accessories": [
+                                {
+                                    "id": 1,
+                                    "name": "Shirtwaist",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "On loan from the Filson Historical Society",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Skirt",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "On loan from the Filson Historical Society",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Gainsborough hat",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Gift of Juanita (Caufield) Welsh, Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "description": "According to the Costume Institute at the Metropolitan Museum of Art, the “slimming of the fashionable silhouette in the second half of the 1900s, hats responded in counterpoint becoming increasingly larger.” For these top-heavy designs, some designers drew inspiration from the previous century—when hats had previously become elaborate and impressive affairs in order to “accommodate the large hairstyles of the period.” The British portraitist Thomas Gainsborough (1727-1788) popularized these large, heavily-decorated hats after painting Lady Georgiana (Spencer) Cavendish, Duchess of Devonshire, in 1785. The Duchess, who is said to have designed the hat that appears in her portrait herself, earned Gainsborough claim to a hat style that would endure for centuries in the imaginations of milliners. The nineteenth and twentieth century homages to Gainsborough’s trend-setting portrait, like this example from our collection, reinterpreted the original design, expanding the shapes and using a broad variety of trimmings in all sorts of colors.",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Parasol",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "On loan from the Filson Historical Society",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Crocheted purse",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Gift of Bertha Van Overbeke, Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "image": "",
+                                    "images": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "name": "Woman’s walking suit ensemble",
+                            "description": "ca. 1910s-1920s",
+                            "image": "",
+                            "credit": "Kentucky Science Center Collection, Kentucky Derby Museum",
+                            "text": "The effect of World War I on fashion trends was significant in Europe and America. Lydia Edwards explains, “As a result of the war, women witnessed perhaps the largest strides of clothing reform yet due to utilitarian attitudes and the absolute necessity to recruit women into the war effort—especially in work such as munitions manufacture.” The risks associated with working in a mechanical environment rendered impractical garments—those with excessive ornamentation or volume of fabric—a safety hazard. Fashion adapted, increasing the popularity of simple, fitted suits called “tailormades” tended to take on characteristics of men’s suiting and military styles, utilizing dropped waistlines, shorter skirts, and uniform-like epaulets, cuffs, and belts. This era was also a boom-time for American industry, which redoubled in response to war-torn Europe. Rabinovitch-Fox says, “Whereas Paris remained the main source of styles, developments in clothing manufacturing and distribution caused the American ready-made garment industry to rise to power in the postwar decade.” The United States’ growing estimation in the fashion world is discernable in Derby fashion coverage of the era, as in a 1911 quote from the Courier-Journal: “[A]lthough Churchill Downs knows not the ‘mannequins’ of the French designers, which give to the Longchamps track its special standing in the world of fashion, the women who attended the Derby yesterday were not one whit behind the Parisians in the beauty of the costumes worn.”",
+                            "accessories": [
+                                {
+                                    "id": 1,
+                                    "name": "Suit jacket",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Gift of Carla Sue Broecker, Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Suit skirt",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Gift of Carla Sue Broecker, Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Embroidered shirtwaist",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Hat",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "description": "Wartime also had a sobering effect on women’s headwear. Where the turn of the century had emphasized top-heavy hat designs with excessive trimming, the 1910s ushered in new styles that emphasized a “smart severity.” Although hats were still complex and ornamented, their overall profile was reduced, brims pulled closer to the face, and headwear reflected the shift to smaller and less complex hairstyles. The predecessor to the cloche, the 1920s’ most enduring fashion statement, can be seen in this velvet hat. Also popular was the toque, which provided modest volume in the crown but featured little-to-no brim.",
+                                    "image": "",
+                                    "images": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Flapper ensemble",
+                            "description": "ca. 1920s",
+                            "image": "",
+                            "credit": "Kentucky Science Center Collection, Kentucky Derby Museum",
+                            "text": "The postwar years following World War I brought an explosion of industry and ideas to American culture. By 1920, white American women—aided by Black women, who would not enjoy the benefits of the allyship for decades—had earned the right to vote. Women were also entering the workforce in unprecedented numbers and asserting their social independence in other ways. It was promoted as the “flapper” era, which has been referenced widely for its glittering, fun-loving, gender-bending, and colorful fashion aesthetic. The cultural change was liberating to some but concerning to others. On Derby Day 1924, the Courier-Journal interviewed a ninety-three-year-old woman named Susan Sherley, who claimed to have been coming to the race since its earliest days: “[She] shook her white silk bonnet and bemoaned the days when dresses were prettier and girls swished to the races in gored crinoline. ‘Smoking—walking like elephants—women taking the lead—Lordy. It’s no wonder men feel so insignificant.’” Although fashion had always been important at the Kentucky Derby, the 1920s was the decade when obsessive reporting on ensembles worn to the races truly took off. “New York has its Easter parade on Fifth Avenue,” wrote a reporter in 1924, “but Kentucky has the Derby, with its parade of fashions, a bit late, perhaps, but none the less brilliant, and by no means the lesser of the attractions at the annual running of the turf classic.” The Christian holiday of Easter, which had reigned supreme in Louisville’s fashion industry since the 1860s, was inevitably replaced by the Kentucky Derby.",
+                            "accessories": [
+                                {
+                                    "id": 1,
+                                    "name": "Printed dress",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Gift of Florence Danforth (Farnsley) McNair, Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "description": "In addition to new garment shapes and silhouettes, the 1920s brought a number of new fabrics and printing methods to American fashion that brought a riot of color to events like the Kentucky Derby. This dress, made from a material called silk georgette, is a perfect example of what a reporter for the Courier-Journal observed at the races in 1926: “Colors of new and disturbing liveliness greeted the eyes of those fortunate enough to witness the running of the fifty-third Kentucky Derby at Churchill Downs. Ibis brown, Driscoll green, appleblossom pink, ciel blue, Valencia blue, lilac, violet and lavender, primrose, periwinkle, maize, burnt orange and amber, fabrics soft and lustrous. Thin chiffon wraps like a flock of painted butterflies.” In this dress you may note, as well, the sleeveless design. Lydia Edwards notes that “sleeveless dresses, even for daywear, were becoming more acceptable by the mid 1920s, and […] could potentially have been worn for any time of day.” In the event of a particularly cold Kentucky Derby Day, which were not uncommon, many women wore close-fitting sweaters and jackets, or draped themselves with fur collars or stoles.",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Cloche",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Gift of Mary Ann (Adams) Strothman, Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "description": "Hairstyles began to shift dramatically for women in the 1920s. The rising popularity of the bob—a short haircut, sometimes worn with bangs—allowed women to wear hats that were more closely molded to the head and face. From this came the development of the cloche, which in the French language means “bell.” It is perhaps the most recognized symbol of fashion trends in the postwar era, even if the style had a relatively short life.",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "Beaded purse",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Gift of the Belker Family, Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Pumps",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Gift of Juanita (Caufield) Welsh, Kentucky Science Center Collection, Kentucky Derby Museum",
+                                    "image": "",
+                                    "images": []
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Entry Badge",
+                                    "dot": {
+                                        "x": 960,
+                                        "y": 540
+                                    },
+                                    "credit": "Gift of Churchill Downs, Kentucky Derby Museum Permanent Collection",
+                                    "image": "",
+                                    "images": []
+                                }
+                            ]
+                        }
+                    ]
+                
+                
+            
+        },
+        "Sportswear":
+        {
+            "title" : "Sportswear",
+            "ensembles": [
+                {
+                "id": 1,
+                "name": "Printed silk ensemble",
+                "description": "ca. 1937",
+                "image": "",
+                "credit": "Kentucky Science Center Collection, Kentucky Derby Museum",
+                "text": "The 1930s was a challenging time in the United States. Following the crash of the stock market in 1929, life changed dramatically for many Americans, and the subsequent effects of the Great Depression settled over the fashion industry and those who patronized it. These effects only deepened when the threat of war in Europe signaled to Americans an impending era of belt-tightening. The nation’s entry into World War II all but assured that the American economy could no longer support the conspicuous consumption of the 1920s. Sportswear and its innovations, in some key ways, facilitated this shift for the American pocketbook. By the nature of its silhouettes, sportswear used significantly less fabric per garment, and those garments—even those created by well-respected designers or made from more expensive textiles, like silk—were increasingly machine-printed and machine-sewn. The cost of a dress, purchased off the rack and ready-to-wear, was already more affordable than some of the complex and embellished pieces of the 1920s.",
+                "accessories": [
+                    {
+                        "id": 1,
+                        "name": "Painted silk dress",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Worn by Eva (Shacklette) Caufield. Gift of Juanita (Caufield) Welsh, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "image": "",
+                        "images": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Straw hat",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Gift of Louise Watkins, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "description": "Straw hats had been a staple of racetrack fashion in Louisville for nearly a century, but by the 1930s, straw headwear was becoming an important—and affordable—way to keep cool and stylish on Derby Day. In 1939 Virginia Shirley, one of the Courier-Journal’s perennial fashion reporters at the Kentucky Derby, “The straws had the center stage this year, varying from large fine shantungs in cartwheels and poke bonnets to tiny sailors in the roughest straw. In straws all-whites and all-blacks predominated, with navy and a rich shining ‘toast’ shade appearing frequently.” The versatility of shaping and dying straw before even adding trimmings made the material an ideal medium for milliners, who could contort the material into designs that belied its humble origins. In the 1940s and 50s, new methods of treating straw brought the popular “cellophane straw” variety to the market, which added a glinting curiosity to natural fibers.",
+                        "image": "",
+                        "images": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Polka dot ensemble",
+                "description": "ca. 1940s",
+                "image": "",
+                "credit": "Kentucky Science Center Collection, Kentucky Derby Museum",
+                "text": "By the end of the 1930s and the arrival of the early 1940s, it was not uncommon for the Kentucky Derby to boast more than a few leading female stable owners in the ranks each year. Among these was an East Coast heiress named Isabel Dodge Sloane, whose horse Cavalcade had captured the Derby in 1934. Spectators and journalists eagerly awaited Sloane’s participation at the races, not only for her excellent Thoroughbreds but also for her impeccable sense of style. She was a walking advertisement for sportswear, arriving to the racetrack in cunning ensembles that ensured racegoers understood the essential elements of the American look—even when those racegoers observed her at European racetracks like Ascot and Longchamp. The “layering” of garments, though not a new idea, gained new life within the realm of sportswear—so much so that in the 1950s, the American designer Bonnie Cashin officially coined the term. Layering was simply another dimension to the functionality of the modern wardrobe, not only allowing women comfort and interest in ensembles but also creating the opportunity to wear a single outfit to multiple functions at multiple times of day. Layering was also an excellent way to combat the changeable weather of the spring season while also remaining well-dressed. Photographs of Sloane at racetracks across the country show her wearing layered ensembles, like this one, on countless occasions. A smart cellophane straw hat, in an asymmetrical design Sloan seemed to favor, tops a matching dress and bolero jacket that might have even been worn underneath a mink coat in morning or evening.",
+                "accessories": [
+                    {
+                        "id": 1,
+                        "name": "Rayon dress and bolero jacket",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Gift of Helen Palmer, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "description": "Many of the designers who were innovating in affordable sportswear collections did so by redefining previously undervalued fabrics like cotton, twill, and tweed as “glamorous. But there were also scientific innovations that were making fashion more affordable. By the end of the 1920s, Rayon—a synthetic fiber made from cellulose, officially named in 1924—became a lower-cost alternative to popular fabrics like silk. The widening availability of synthetic fabrics provided welcome alternatives when, at the outset of World War II, war rationing and restrictions limited the types of clothing that could be produced, and in what materials and styles. The prevalence of plastics in accessories and notions, too, helped change the face of fashion. Plastic buttons, zippers, and snaps replaced metal enclosures, and plastic soles replaced rubber ones. Wearing synthetics, especially those made in one’s home country, became a patriotic duty and a support for the war effort.",
+                        "image": "",
+                        "images": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Cellophane straw capulet",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Gift of Joan (Cook) Berry, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "image": "",
+                        "images": []
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Woman’s suit ensemble",
+                "description": "ca. 1940s",
+                "image": "",
+                "credit": "Kentucky Science Center Collection, Kentucky Derby Museum",
+                "text": "Beyond the effect on available materials for garments, World War II significantly changed the silhouettes of the fashionable woman worldwide. Military-inspired designs, even more obvious than during the previous World War. In both Europe and America, these examples of “utility clothing” were often, according to Lydia Edwards, suits of “simple elegance, making the square shoulders, nipped-in waist, and kick-flare skirt a staple of smart, professional clothing during the war years.” Utility-qualified garments avoided the use of natural fibers as much as possible, like cotton, wool, and leather. Although this suit is made from wool, signaling its likely design by an American designer, it follows many of the regulations of a conservative wartime silhouette and styling. And of course, attending the races at Churchill Downs during the war years meant spying many actual uniforms in the crowd. “All branches of service were represented in the crowd […]. You saw uniforms you didn’t even know existed, such as the new army whites, sported by a number of young lieutenants, and navy khaki, worn to the accompaniment of gold braid by several ensigns and lieutenants, junior grade.” Some of those uniforms, especially those emblazoned with the American Red Cross, would have been worn by women as well as men.",
+                "accessories": [
+                    {
+                        "id": 1,
+                        "name": "Suit jacket",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Gift of Carla Sue Broecker, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "image": "",
+                        "images": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Suit skirt",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Gift of Carla Sue Broecker, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "image": "",
+                        "images": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Asymmetrical brim hat",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Gift of Juanita (Caufield) Welsh, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "description": "Despite the austerity of certain wartime restrictions on wardrobe, designers and milliners were still offering some opportunities to express whimsy and individuality. In fact, at the Kentucky Derby, the 1940s was an excellent time to observe the origins of a time-honored tradition at Churchill Downs: the wacky and outlandish hat. This asymmetrical felt hat, covered in silk and velvet flowers, offers an example of a description of headwear at the 1946 Kentucky Derby by Marion Porter of the Courier-Journal. “Those glamorous creatures who used to settle for fur capes and orchids as Derby costumes, this year concentrated on their heads. Dresses and suits were, for the most part, elegantly simple, but the hats were towering confections of roses, lace, tulle, sugar and spice and everything nice.” Milliners like Bes-Ben, John Frederics, Sally Victor, and Adrian were selling women on absurd and wonderful creations like the hat a Mrs. Kirk of Fort Worth, Texas wore to the Derby in 1947. The “Bes-Ben extremity was called ‘Turtles of Grass’—beige and green turtles frolicked in a couple feet of grass.”",
+                        "image": "",
+                        "images": []
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Woman’s shirtwaist dress ensemble",
+                "description": "ca. 1950s",
+                "image": "",
+                "credit": "Kentucky Science Center Collection, Kentucky Derby Museum",
+                "text": "In the economic and social aftermath of World War II, both European and American designers returned to their drawing boards and tried to envision the postwar vision for fashion. In Paris, Christian Dior introduced his divisive but visionary “New Look,” which embraced ultra-glamour, ultra-femininity, and ultra-nipped waists. The New Look flouted wartime restrictions, using—to some, at least—unspeakable quantities of fabric to drape a single skirt. It also required a return to dramatic figure restriction through strict undergarments, like girdles, in order to achieve the dramatic hourglass silhouette of the French models. Americans hemmed and hawed about the new aesthetic, and while many American women ultimately adopted parts of Dior’s vision by the early 1960s, others preferred more homespun theories on how they should dress. Dorothy Shaver, trendsetter and president of the successful department store Lord & Taylor, said in 1951, “Because of the American designer’s ability to interpret social change in feminine terms, the American woman’s clothes are an expression of herself as an individual yet also as a representative of a cultural pattern.” Shaver called the style, “the American Look,” which emphasized the straightforward, active, and independent qualities of the new American woman. While it retained some elements of the French New Look, it was a more practical expression that could accommodate more women’s’ lifestyles.",
+                "accessories": [
+                    {
+                        "id": 1,
+                        "name": "Shirtwaist dress",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Gift of June First, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "description": "The American answer to Christian Dior’s New Look was a fresh perspective on an old style. The shirtwaist, which had revolutionized women’s fashion in the 1890s, was resurrected in the 1930s and 40s as a simple, utilitarian, always-elegant dress that flattered most figures and could be constructed easily out of most fabrics. Claire McCardell is considered the chief innovator of the 1950s, ready-to-wear, affordable, and comfortable version of the shirtwaist dress. Because of the garment’s versatility and attractive price tag, McCardell “achieved a level of egalitarianism in fashion,” which Lydia Edwards says were “embraced by working women, suburban housewives, and high-society alike.” In this dress—designed with slightly more structure than a McCardell original—it is still possible to observe the way that the shirtwaist dress continued to find interpretations in new ways. With its tailored darts and pleats, this dress bridges the gap between the shirtwaist and other, later styles, like the coat dress. It could be worn with or without a crinoline, making it suitable to a number of different occasions and functions.",
+                        "image": "",
+                        "images": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Checkered coolie hat",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Gift of June First, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "image": "",
+                        "images": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Embroidered handbag",
+                        "dot": {
+                            "x": 960,
+                            "y": 540
+                        },
+                        "credit": "Gift of the Wathen family, Kentucky Science Center Collection, Kentucky Derby Museum",
+                        "image": "",
+                        "images": []
+                    }
+                ]
+            }
+            ]
+        }
+    }
+} 

@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.bracketSpacing": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.arrowParens": "avoid",
+  "files.associations": {
+    "*.json": "jsonc"
+  }
+}

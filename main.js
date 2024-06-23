@@ -6,17 +6,17 @@ function createWindow() {
   mainWindow = new BrowserWindow({
     width: 1920,
     height: 1080,
-    resizable: false,
-    movable: false,
+    // resizable: false,
+    // movable: false,
     x: 0,
     y: 0,
-    useContentSize: true,
-    alwaysOnTop: true,
+
+    // alwaysOnTop: true,
     fullscreen: true,
     skipTaskbar: true,
     kiosk: true,
     frame: false,
-    show: true,
+   
 
     webPreferences: {
       nodeIntegration: true,
@@ -28,7 +28,7 @@ function createWindow() {
   const startURL =
     process.env.NODE_ENV === 'development'
       ? 'http://localhost:9000'
-      : `${path.join(__dirname, 'dist', 'app.html')}`;
+      : `${path.join(__dirname, 'dist', 'index.html')}`;
 
   mainWindow.loadFile(startURL);
   console.log('startURL: ', startURL);
