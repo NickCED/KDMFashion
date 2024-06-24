@@ -24,10 +24,7 @@ function createWindow() {
 
   // Determine whether the app is in development or production and set the start URL accordingly
 
-  const startURL =
-    process.env.NODE_ENV === 'development'
-      ? 'http://localhost:9000'
-      : `${path.join(__dirname, 'dist', 'index.html')}`;
+  let startURL = path.join(__dirname, 'EditFrontEnd', 'index.html');
 
   mainWindow.loadFile(startURL);
   console.log('startURL: ', startURL);

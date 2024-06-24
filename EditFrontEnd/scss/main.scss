@@ -19,11 +19,11 @@ $visSize: 1rem;
 // $c-300 with $c-700 or $c-800
 // $c-400 with $c-800
 
-@import './scss/Attract';
-@import './scss/Home';
+@import './Attract';
+@import './Home';
 @font-face {
   font-family: 'Archivo';
-  src: url('../dist/assets/fonts/Archivo/Archivo-VariableFont_wdth\,wght.ttf')
+  src: url('../assets/fonts/Archivo/Archivo-VariableFont_wdth,wght.ttf')
     format('truetype');
   font-weight: 100 900; // Defines the range of font weights
   font-stretch: 75% 125%; // Defines the range of font stretch
