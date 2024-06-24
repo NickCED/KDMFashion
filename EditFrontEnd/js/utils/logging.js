@@ -1,12 +1,10 @@
-const { ipcRenderer } = require('electron');
-
 // Import the necessary modules
 import { currentPage } from '../nav';
 // Function to log click/touchevents
 function logUserInteraction(event) {
   event.userCurrentPage = currentPage;
   // Send the event to the Electron backend using IPC communication
-  ipcRenderer.send('userInteraction', event);
+  window.icpRenderer.send('userInteraction', event);
 }
 
 // Function to signal a new user
@@ -15,7 +13,7 @@ function newUser() {
   console.log('New user activated!');
 
   // Send the signal to the Electron backend using IPC communication
-  ipcRenderer.send('newUser');
+  window.icpRenderer.send('newUser');
 }
 
 //remove EventListener

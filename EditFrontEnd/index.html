@@ -3,8 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'"
+    />
+    <meta
+      http-equiv="X-Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'"
+    />
     <title>See & Be Seen - Center</title>
     <link rel="stylesheet" href="./css/main.css" />
+    <script defer type="module" src="./index.js"></script>
   </head>
   <body>
     <!-- Place Application gui components here -->
@@ -26,8 +35,9 @@
     <section class="page" id="Help"></section>
     <section class="page" id="Info"></section>
     <nav>
-      <button id="homebtn">Home</button>
-      <button id="helpbtn">Help</button>
+      <img src="./assets/navLogo.png" id="navLogo" alt="Logo" />
+      <button id="homeBtn">Home</button>
+      <button id="helpBtn">Help</button>
     </nav>
   </body>
 </html>

@@ -12,3 +12,7 @@ ipcRenderer.send('messageFromRenderer', 'Hello from renderer process!');
 ipcRenderer.on('messageFromMain', (event, message) => {
   console.log('Received message from main process:', message);
 });
+
+contextBridge.exposeInMainWorld('api', {
+  getImages: dir => ipcRenderer.invoke('get-images', dir),
+});

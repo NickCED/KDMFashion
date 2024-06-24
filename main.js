@@ -1,27 +1,38 @@
 // main.js
 const path = require('path');
-const { app, BrowserWindow, ipcMain } = require('electron');
+const fs = require('fs');
+const { app, BrowserWindow, ipcMain, screen } = require('electron');
 let mainWindow;
 function createWindow() {
+  const displays = screen.getAllDisplays();
+
+  const externalDisplay = displays.find(display => {
+    return display.bounds.x !== 0 || display.bounds.y !== 0;
+  });
+  let monX = externalDisplay ? externalDisplay.bounds.x : 0;
+  let monY = externalDisplay ? externalDisplay.bounds.y : 0;
+  console.log('BrowserWindow dir : ', path.join(__dirname, 'preload.js'));
   mainWindow = new BrowserWindow({
     width: 1920,
     height: 1080,
     // resizable: false,
     // movable: false,
-    x: 0,
-    y: 0,
+    x: monX,
+    y: monY,
 
     // alwaysOnTop: true,
     fullscreen: true,
-    skipTaskbar: true,
-    kiosk: true,
+    // skipTaskbar: true,
+    // kiosk: true,
     frame: false,
 
     webPreferences: {
+      contextIsolation: true,
       nodeIntegration: true,
+      preload: path.join(__dirname, 'preload.js'),
     },
   });
-
+  mainWindow.webContents.openDevTools({ mode: 'detach' });
   // Determine whether the app is in development or production and set the start URL accordingly
 
   let startURL = path.join(__dirname, 'EditFrontEnd', 'index.html');
@@ -66,3 +77,10 @@ app.on('activate', () => {
 //   if (err) throw err;
 //   console.log('The file has been saved!');
 // });
+ipcMain.handle('get-images', async (event, dir) => {
+  console.log('Current directory: ', __dirname);
+  const imagesDir = path.join(__dirname, 'images');
+  const files = fs.readdirSync(imagesDir);
+  const imageFiles = files.filter(file => /\.(jpg|jpeg|png|gif)$/.test(file));
+  return imageFiles.map(file => path.join('images', file));
+});
