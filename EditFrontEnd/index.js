@@ -1,5 +1,5 @@
-import gsap from '../node_modules/gsap/index.js';
-
+import gsap from 'gsap';
+import './scss/main.scss';
 //Pages
 const attract = document.getElementById('Attract');
 const nav = document.querySelector('nav');
@@ -14,9 +14,11 @@ const helpBtn = document.getElementById('helpBtn');
 const homeBtn = document.getElementById('homeBtn');
 
 //setup
-window.api.getImages('images').then(images => {
-  console.log(images);
-});
+if (window.api !== undefined) {
+  window.api.getImages('images').then(images => {
+    console.log(images);
+  });
+}
 gsap.set([attract], { alpha: 1, zIndex: 10 });
 gsap.set([home, clump, ensemble, accessories, help, info], {
   alpha: 0,

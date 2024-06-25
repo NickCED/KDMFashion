@@ -3,17 +3,27 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
+    <!-- <meta
       http-equiv="Content-Security-Policy"
       content="default-src 'self'; script-src 'self'"
     />
     <meta
       http-equiv="X-Content-Security-Policy"
       content="default-src 'self'; script-src 'self'"
+    /> -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="
+    default-src 'self';
+    script-src 'self' 'unsafe-eval' 'unsafe-inline' http://localhost:8080;
+    connect-src 'self' http://localhost:8080;
+    img-src 'self' data:;
+    style-src 'self' 'unsafe-inline';
+    font-src 'self' data:;
+"
     />
+
     <title>See & Be Seen - Center</title>
-    <link rel="stylesheet" href="./css/main.css" />
-    <script defer type="module" src="./index.js"></script>
   </head>
   <body>
     <!-- Place Application gui components here -->
@@ -22,7 +32,7 @@
       <img
         id="Logo"
         class="a-item"
-        src="./assets/Attract.png"
+        src="../assets/Attract.png"
         alt="See&Seen Logo"
       />
       <h2>Station 1</h2>
@@ -35,7 +45,7 @@
     <section class="page" id="Help"></section>
     <section class="page" id="Info"></section>
     <nav>
-      <img src="./assets/navLogo.png" id="navLogo" alt="Logo" />
+      <img src="../assets/navLogo.png" id="navLogo" alt="Logo" />
       <button id="homeBtn">Home</button>
       <button id="helpBtn">Help</button>
     </nav>
