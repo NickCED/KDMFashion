@@ -35,7 +35,7 @@ function createWindow() {
   mainWindow.webContents.openDevTools({ mode: 'detach' });
   // Determine whether the app is in development or production and set the start URL accordingly
 
-  let startURL = path.join(__dirname, 'EditFrontEnd', 'index.html');
+  let startURL = path.join(__dirname, 'dist', 'index.html');
 
   mainWindow.loadFile(startURL);
   console.log('startURL: ', startURL);

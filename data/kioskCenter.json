@@ -1,416 +1,451 @@
 {
-    "ensembles": [
+  "ensembles": [
+    {
+      "id": 1,
+      "homeLocation": {
+        "x": 960,
+        "y": 540,
+        "scale": 1
+      },
+      "name": "Shaun & Randi Miller",
+      "description": "Worn to the 2019 Kentucky Derby",
+      "image": "",
+      "credit": "On loan from Shaun & Randi Miller",
+      "text": "The Kentucky humorist Irvin S. Cobb notably wrote of the Kentucky Derby, “Until you go to Kentucky, and with your own eyes behold the Derby, you ain’t been nowhere and you ain’t seen nothin’!” Quintessentially Derby Day in theme, color, and exuberance, Shaun & Randi Miller’s ensembles from 2019 prove Cobb’s theory. The outfits are also a great example of two distinct trends in contemporary Derby fashion: the over-the-top hat and the vibrantly patterned men’s suit. When the Millers entered the Museum’s recent fashion contest, for inclusion in this exhibit, they summed up the ensembles in a brief phrase: “How can you have too many roses?”",
+      "accessories": [
         {
-            "id": 1,
-            "name": "Shaun & Randi Miller",
-            "description": "Worn to the 2019 Kentucky Derby",
-            "image": "",
-            "credit": "On loan from Shaun & Randi Miller",
-            "text": "The Kentucky humorist Irvin S. Cobb notably wrote of the Kentucky Derby, “Until you go to Kentucky, and with your own eyes behold the Derby, you ain’t been nowhere and you ain’t seen nothin’!” Quintessentially Derby Day in theme, color, and exuberance, Shaun & Randi Miller’s ensembles from 2019 prove Cobb’s theory. The outfits are also a great example of two distinct trends in contemporary Derby fashion: the over-the-top hat and the vibrantly patterned men’s suit. When the Millers entered the Museum’s recent fashion contest, for inclusion in this exhibit, they summed up the ensembles in a brief phrase: “How can you have too many roses?”",
-            "accessories": [
-                {
-                    "id": 1,
-                    "name": "Hat",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "On loan from Shaun & Randi Miller",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 2,
-                    "name": "Dress",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Carmen Marc Valvo. On loan from Shaun & Randi Miller",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 3,
-                    "name": "Shoes",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Yves Saint Laurent. On loan from Shaun & Randi Miller",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 4,
-                    "name": "Purse",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Valentino. On loan from Shaun & Randi Miller",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 5,
-                    "name": "Fedora",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "On loan from Shaun & Randi Miller",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 6,
-                    "name": "Rose suit",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "description": "Worn with green button-down dress shirt and red silk bowtie and pocket square.",
-                    "credit": "On loan from Shaun & Randi Miller",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 7,
-                    "name": "Suede shoes",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "On loan from Shaun & Randi Miller",
-                    "image": "",
-                    "images": []
-                }
-            ]
+          "id": 1,
+          "name": "Hat",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Shaun & Randi Miller",
+          "image": "",
+          "images": []
         },
         {
-            "id": 2,
-            "name": "Stacy Hoehle",
-            "description": "Worn to the 2023 Breeders’ Cup",
-            "image": "",
-            "credit": "On loan from Stacy Hoehle",
-            "text": "Although the Kentucky Derby is probably the most visible, current example of fashion at the racetrack, the idea of dressing to impress extends to many other important races and venues throughout history. The luxury watchmakers, Longines, sponsor a fashion prize at internationally known races, such as the Belmont Stakes and the Prix de Diane. Awarded the Longines Prize for Elegance at the Breeders’ Cup World Championship in 2023, Stacy Hoehle proves that Kentucky’s racing fashion traditions are always an aesthetic favorite wherever they go. Hoehle explains, “While [the ensemble] wasn’t worn to the Derby, it reflects the Derby style of flamboyant dressing with a matching custom headpiece.” Wearing stunning ensembles to the racetrack has been a passion of Hoehle’s for years, and she attended her first Kentucky Derby at the age of 10.",
-            "accessories": [
-                {
-                    "id": 1,
-                    "name": "Dress",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Solace London. On loan from Stacy Hoehle",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 2,
-                    "name": "Fascinator",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Louiza Millinery by Louise Burke. On loan from Stacy Hoehle",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 3,
-                    "name": "Sandals",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Steve Madden. On loan from Stacy Hoehle",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 4,
-                    "name": "Purse",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Hand-decorated by Stacy Hoehle. On loan from Stacy Hoehle",
-                    "image": "",
-                    "images": []
-                }
-            ]
+          "id": 2,
+          "name": "Dress",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Carmen Marc Valvo. On loan from Shaun & Randi Miller",
+          "image": "",
+          "images": []
         },
         {
-            "id": 3,
-            "name": "Ilana Kogan",
-            "description": "Worn to the 2023 Kentucky Derby",
-            "image": "",
-            "credit": "Gift of Ilana Kogan, Kentucky Derby Museum Permanent Collection",
-            "text": "Since the very beginning, modistes (dressmakers) and milliners (hat makers) have flocked to the Kentucky Derby, often dressed in their own finest creations. At the very first Kentucky Derby in 1875, the popular dressmaker and stylist Madame Glover was in attendance, ready to spy the latest trends on display by her customers—and perhaps drum up some business for the next season. The tradition continues today, with talented craftspeople like Ilana Kogan, known in the trade as “The Hat Doctor.” Many active designers and milliners attend the Kentucky Derby dressed in their own creations and are eager to spy other hats they made in the crowd. Kogan’s recognizable headpieces—right on trend with the current popularity of fascinators and headband hats—stand out for their beautiful materials and whimsical designs. “I love to wear some sparkle at the track,” she explains, “and this was not only so beautiful in the sunlight but really popped with the bright colors!”",
-            "accessories": [
-                {
-                    "id": 1,
-                    "name": "Fascinator",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by The Hat Doctor, Ilana Kogan. Gift of Ilana Kogan, Kentucky Derby Museum Permanent Collection",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 2,
-                    "name": "Dress",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Rixo. Gift of Ilana Kogan, Kentucky Derby Museum Permanent Collection",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 3,
-                    "name": "Purse",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Vintage purchase. Gift of Ilana Kogan, Kentucky Derby Museum Permanent Collection",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 4,
-                    "name": "Sandals",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "On loan from Ilana Kogan",
-                    "image": "",
-                    "images": []
-                }
-            ]
+          "id": 3,
+          "name": "Shoes",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Yves Saint Laurent. On loan from Shaun & Randi Miller",
+          "image": "",
+          "images": []
         },
         {
-            "id": 4,
-            "name": "Angela Springate",
-            "description": "Worn to the 2019 Kentucky Derby",
-            "image": "",
-            "credit": "On loan from Anthony Springate Jr. and Angela Springate",
-            "text": "Not everyone can afford a stylist for a day at the races, but what if you already have one in your family? Angela Springate had her son, Anthony Springate, to help make her Derby outfit for 2019 unique and eye-catching. “We started with the bag as our inspiration: its vibrant shades of green, purple, and orange conjured images of tropical orchids in a rainforest,” Springate explains. From there, Springate designed and made the custom fascinator, and chose a dress and shoes to “make the hat pop.” The result was a stunning ensemble with audacious color combinations that accentuated the beauty of its tropical inspiration.",
-            "accessories": [
-                {
-                    "id": 1,
-                    "name": "Fascinator",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Anthony Springate Jr. of Spring8studios for his mother, Angela Springate. On loan from Anthony Springate Jr. and Angela Springate",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 2,
-                    "name": "Dress",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by BGBG Max Azria. On loan from Anthony Springate Jr. and Angela Springate",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 3,
-                    "name": "Shoes",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Sam Edelman. On loan from Anthony Springate Jr. and Angela Springate",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 4,
-                    "name": "Purse",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Aldo. On loan from Anthony Springate Jr. and Angela Springate",
-                    "image": "",
-                    "images": []
-                }
-            ]
+          "id": 4,
+          "name": "Purse",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Valentino. On loan from Shaun & Randi Miller",
+          "image": "",
+          "images": []
         },
         {
-            "id": 5,
-            "name": "Alexis Kerns",
-            "description": "Worn to the 2023 Kentucky Derby",
-            "image": "",
-            "credit": "On loan from Alexis Kerns",
-            "text": "Many of us may have a specific kind of outfit we imagine for an Infield spectator on Derby Day, but there is decidedly more glamour in that mass of humanity than one might expect. Alongside the jeans-and-t-shirt crowd blooms the creative and the beautiful, sported by life-long fans of the Kentucky Derby fashion experience. “As a little girl, I couldn’t wait to grow up so I could dress up like all the pretty girls I would see on tv,” says Alexis Kerns, who wore this exciting ensemble in the infield at the 2023 Kentucky Derby. “I couldn’t have been more proud of my outfit I put together on my own. I really felt accomplished when I had strangers asking to take photos of me as they were walking into the gate. I may have only been in the infield, but this was a dream come true for me.”",
-            "accessories": [
-                {
-                    "id": 1,
-                    "name": "Hat",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Gift Box and Tea Room, Lexington, Kentucky. On loan from Alexis Kerns",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 2,
-                    "name": "Dress",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Anthropologie. On loan from Alexis Kerns",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 3,
-                    "name": "Purse",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Alexis Kerns. On loan from Alexis Kerns",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 4,
-                    "name": "Necklace",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "On loan from Alexis Kerns",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 5,
-                    "name": "Sandals",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "On loan from Alexis Kerns",
-                    "image": "",
-                    "images": []
-                }
-            ]
+          "id": 5,
+          "name": "Fedora",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Shaun & Randi Miller",
+          "image": "",
+          "images": []
         },
         {
-            "id": 6,
-            "name": "Melissa Rondeau",
-            "description": "Worn to the 2021 Kentucky Oaks",
-            "image": "",
-            "credit": "Gift of Melissa Rondeau, Kentucky Derby Museum Permanent Collection",
-            "text": "Derby Day isn’t the only day at Churchill Downs where fashion reigns supreme. The Kentucky Oaks—run the day before the Derby, for three-year-old fillies, which boasts a history equally long as that of the Derby—is also a chance for spectators to show off their finest sartorial creations. In 2021, the first Kentucky Oaks where fans could return to the track after the COVID-19 pandemic, Melissa Rondeau wore this trendy and bold coral jumpsuit and a custom hat, made by her uncle, Josh Meredith. “My 2021 Oaks ensemble is one of my favorites—bold and unique with the jumpsuit and a wire-rimmed fascinator,” Rondeau says. “However, even more so it represented a return to normalcy after COVID, a return to celebration, a return to all the things that make Kentucky special—A year to stand out after a year of staying in.”",
-            "accessories": [
-                {
-                    "id": 1,
-                    "name": "Jumpsuit",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Gift of Melissa Rondeau, Kentucky Derby Museum Permanent Collection",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 2,
-                    "name": "Fascinator",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Josh Meredith. Gift of Melissa Rondeau, Kentucky Derby Museum Permanent Collection",
-                    "image": "",
-                    "images": []
-                }
-            ]
+          "id": 6,
+          "name": "Rose suit",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "description": "Worn with green button-down dress shirt and red silk bowtie and pocket square.",
+          "credit": "On loan from Shaun & Randi Miller",
+          "image": "",
+          "images": []
         },
         {
-            "id": 7,
-            "name": "Teal Bridwell",
-            "description": "Worn to a 2023 Kentucky Derby Event",
-            "image": "",
-            "credit": "On loan from Teal Bridwell",
-            "text": "Even off-site events related to the Kentucky Derby and its festival week are inspired by the long history of Kentucky Derby fashion expression. Many fans worldwide, and even within the city, spend their Derby Week enjoying the electric excitement of Louisville in spring, attending various parties, fundraisers, and other gatherings that are themed to the historic race. In 2023, Teal Bridwell wore this striking animal print suit with an even more striking headpiece. The soft and dancing black and white feathers recall some of the eccentric, feathered designs of the 1960s, and the smart outfit shows that not only the men dazzle in a well-tailored, patterned suit. But it’s the hat that makes the suit say “Derby,” and, as Bridwell jokes, “If you don’t want attention, don’t wear the hat at all!”",
-            "accessories": [
-                {
-                    "id": 1,
-                    "name": "Hat",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "On loan from Teal Bridwell",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 2,
-                    "name": "Printed suit",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "Designed by Lane Bryant. On loan from Teal Bridwell",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 3,
-                    "name": "Purse",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    }, 
-                    "credit": "On loan from Teal Bridwell",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 4,
-                    "name": "Necklace",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "On loan from Teal Bridwell",
-                    "image": "",
-                    "images": []
-                },
-                {
-                    "id": 5,
-                    "name": "Sandals",
-                    "dot": {
-                        "x": 960,
-                        "y": 540
-                    },
-                    "credit": "On loan from Teal Bridwell",
-                    "image": "",
-                    "images": []
-                }
-            ]
+          "id": 7,
+          "name": "Suede shoes",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Shaun & Randi Miller",
+          "image": "",
+          "images": []
         }
-    ]
+      ]
+    },
+    {
+      "id": 2,
+      "homeLocation": {
+        "x": 960,
+        "y": 540,
+        "scale": 1
+      },
+      "name": "Stacy Hoehle",
+      "description": "Worn to the 2023 Breeders’ Cup",
+      "image": "",
+      "credit": "On loan from Stacy Hoehle",
+      "text": "Although the Kentucky Derby is probably the most visible, current example of fashion at the racetrack, the idea of dressing to impress extends to many other important races and venues throughout history. The luxury watchmakers, Longines, sponsor a fashion prize at internationally known races, such as the Belmont Stakes and the Prix de Diane. Awarded the Longines Prize for Elegance at the Breeders’ Cup World Championship in 2023, Stacy Hoehle proves that Kentucky’s racing fashion traditions are always an aesthetic favorite wherever they go. Hoehle explains, “While [the ensemble] wasn’t worn to the Derby, it reflects the Derby style of flamboyant dressing with a matching custom headpiece.” Wearing stunning ensembles to the racetrack has been a passion of Hoehle’s for years, and she attended her first Kentucky Derby at the age of 10.",
+      "accessories": [
+        {
+          "id": 1,
+          "name": "Dress",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Solace London. On loan from Stacy Hoehle",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 2,
+          "name": "Fascinator",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Louiza Millinery by Louise Burke. On loan from Stacy Hoehle",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 3,
+          "name": "Sandals",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Steve Madden. On loan from Stacy Hoehle",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 4,
+          "name": "Purse",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Hand-decorated by Stacy Hoehle. On loan from Stacy Hoehle",
+          "image": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "homeLocation": {
+        "x": 960,
+        "y": 540,
+        "scale": 1
+      },
+      "name": "Ilana Kogan",
+      "description": "Worn to the 2023 Kentucky Derby",
+      "image": "",
+      "credit": "Gift of Ilana Kogan, Kentucky Derby Museum Permanent Collection",
+      "text": "Since the very beginning, modistes (dressmakers) and milliners (hat makers) have flocked to the Kentucky Derby, often dressed in their own finest creations. At the very first Kentucky Derby in 1875, the popular dressmaker and stylist Madame Glover was in attendance, ready to spy the latest trends on display by her customers—and perhaps drum up some business for the next season. The tradition continues today, with talented craftspeople like Ilana Kogan, known in the trade as “The Hat Doctor.” Many active designers and milliners attend the Kentucky Derby dressed in their own creations and are eager to spy other hats they made in the crowd. Kogan’s recognizable headpieces—right on trend with the current popularity of fascinators and headband hats—stand out for their beautiful materials and whimsical designs. “I love to wear some sparkle at the track,” she explains, “and this was not only so beautiful in the sunlight but really popped with the bright colors!”",
+      "accessories": [
+        {
+          "id": 1,
+          "name": "Fascinator",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by The Hat Doctor, Ilana Kogan. Gift of Ilana Kogan, Kentucky Derby Museum Permanent Collection",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 2,
+          "name": "Dress",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Rixo. Gift of Ilana Kogan, Kentucky Derby Museum Permanent Collection",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 3,
+          "name": "Purse",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Vintage purchase. Gift of Ilana Kogan, Kentucky Derby Museum Permanent Collection",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 4,
+          "name": "Sandals",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Ilana Kogan",
+          "image": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "homeLocation": {
+        "x": 960,
+        "y": 540,
+        "scale": 1
+      },
+      "name": "Angela Springate",
+      "description": "Worn to the 2019 Kentucky Derby",
+      "image": "",
+      "credit": "On loan from Anthony Springate Jr. and Angela Springate",
+      "text": "Not everyone can afford a stylist for a day at the races, but what if you already have one in your family? Angela Springate had her son, Anthony Springate, to help make her Derby outfit for 2019 unique and eye-catching. “We started with the bag as our inspiration: its vibrant shades of green, purple, and orange conjured images of tropical orchids in a rainforest,” Springate explains. From there, Springate designed and made the custom fascinator, and chose a dress and shoes to “make the hat pop.” The result was a stunning ensemble with audacious color combinations that accentuated the beauty of its tropical inspiration.",
+      "accessories": [
+        {
+          "id": 1,
+          "name": "Fascinator",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Anthony Springate Jr. of Spring8studios for his mother, Angela Springate. On loan from Anthony Springate Jr. and Angela Springate",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 2,
+          "name": "Dress",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by BGBG Max Azria. On loan from Anthony Springate Jr. and Angela Springate",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 3,
+          "name": "Shoes",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Sam Edelman. On loan from Anthony Springate Jr. and Angela Springate",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 4,
+          "name": "Purse",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Aldo. On loan from Anthony Springate Jr. and Angela Springate",
+          "image": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "homeLocation": {
+        "x": 960,
+        "y": 540,
+        "scale": 1
+      },
+      "name": "Alexis Kerns",
+      "description": "Worn to the 2023 Kentucky Derby",
+      "image": "",
+      "credit": "On loan from Alexis Kerns",
+      "text": "Many of us may have a specific kind of outfit we imagine for an Infield spectator on Derby Day, but there is decidedly more glamour in that mass of humanity than one might expect. Alongside the jeans-and-t-shirt crowd blooms the creative and the beautiful, sported by life-long fans of the Kentucky Derby fashion experience. “As a little girl, I couldn’t wait to grow up so I could dress up like all the pretty girls I would see on tv,” says Alexis Kerns, who wore this exciting ensemble in the infield at the 2023 Kentucky Derby. “I couldn’t have been more proud of my outfit I put together on my own. I really felt accomplished when I had strangers asking to take photos of me as they were walking into the gate. I may have only been in the infield, but this was a dream come true for me.”",
+      "accessories": [
+        {
+          "id": 1,
+          "name": "Hat",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Gift Box and Tea Room, Lexington, Kentucky. On loan from Alexis Kerns",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 2,
+          "name": "Dress",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Anthropologie. On loan from Alexis Kerns",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 3,
+          "name": "Purse",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Alexis Kerns. On loan from Alexis Kerns",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 4,
+          "name": "Necklace",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Alexis Kerns",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 5,
+          "name": "Sandals",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Alexis Kerns",
+          "image": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "homeLocation": {
+        "x": 960,
+        "y": 540,
+        "scale": 1
+      },
+      "name": "Melissa Rondeau",
+      "description": "Worn to the 2021 Kentucky Oaks",
+      "image": "",
+      "credit": "Gift of Melissa Rondeau, Kentucky Derby Museum Permanent Collection",
+      "text": "Derby Day isn’t the only day at Churchill Downs where fashion reigns supreme. The Kentucky Oaks—run the day before the Derby, for three-year-old fillies, which boasts a history equally long as that of the Derby—is also a chance for spectators to show off their finest sartorial creations. In 2021, the first Kentucky Oaks where fans could return to the track after the COVID-19 pandemic, Melissa Rondeau wore this trendy and bold coral jumpsuit and a custom hat, made by her uncle, Josh Meredith. “My 2021 Oaks ensemble is one of my favorites—bold and unique with the jumpsuit and a wire-rimmed fascinator,” Rondeau says. “However, even more so it represented a return to normalcy after COVID, a return to celebration, a return to all the things that make Kentucky special—A year to stand out after a year of staying in.”",
+      "accessories": [
+        {
+          "id": 1,
+          "name": "Jumpsuit",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Gift of Melissa Rondeau, Kentucky Derby Museum Permanent Collection",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 2,
+          "name": "Fascinator",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Josh Meredith. Gift of Melissa Rondeau, Kentucky Derby Museum Permanent Collection",
+          "image": "",
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "homeLocation": {
+        "x": 960,
+        "y": 540,
+        "scale": 1
+      },
+      "name": "Teal Bridwell",
+      "description": "Worn to a 2023 Kentucky Derby Event",
+      "image": "",
+      "credit": "On loan from Teal Bridwell",
+      "text": "Even off-site events related to the Kentucky Derby and its festival week are inspired by the long history of Kentucky Derby fashion expression. Many fans worldwide, and even within the city, spend their Derby Week enjoying the electric excitement of Louisville in spring, attending various parties, fundraisers, and other gatherings that are themed to the historic race. In 2023, Teal Bridwell wore this striking animal print suit with an even more striking headpiece. The soft and dancing black and white feathers recall some of the eccentric, feathered designs of the 1960s, and the smart outfit shows that not only the men dazzle in a well-tailored, patterned suit. But it’s the hat that makes the suit say “Derby,” and, as Bridwell jokes, “If you don’t want attention, don’t wear the hat at all!”",
+      "accessories": [
+        {
+          "id": 1,
+          "name": "Hat",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Teal Bridwell",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 2,
+          "name": "Printed suit",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "Designed by Lane Bryant. On loan from Teal Bridwell",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 3,
+          "name": "Purse",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Teal Bridwell",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 4,
+          "name": "Necklace",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Teal Bridwell",
+          "image": "",
+          "images": []
+        },
+        {
+          "id": 5,
+          "name": "Sandals",
+          "dot": {
+            "x": 960,
+            "y": 540
+          },
+          "credit": "On loan from Teal Bridwell",
+          "image": "",
+          "images": []
+        }
+      ]
+    }
+  ]
 }
